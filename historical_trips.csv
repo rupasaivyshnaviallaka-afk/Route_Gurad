@@ -1,0 +1,16 @@
+distance_km,hour_of_day,day_of_week,weather_type,is_rush_hour,actual_duration_min,was_delayed
+12,8,1,sunny,1,25,0
+45,14,2,sunny,0,52,0
+120,9,3,rainy,1,185,1
+80,18,4,moderate,1,110,1
+200,11,5,sunny,0,210,0
+35,7,1,rainy,1,65,1
+150,15,2,moderate,0,168,0
+300,10,3,sunny,0,295,0
+25,17,4,rainy,1,48,1
+90,22,5,moderate,0,95,0
+60,8,6,sunny,1,75,0
+180,16,7,rainy,0,210,1
+40,12,1,moderate,0,48,0
+250,19,2,sunny,1,280,0
+15,6,3,rainy,1,35,1
